@@ -1,4 +1,4 @@
-cat > README.md <<'EOF'
+
 # dbt_sales_analytics_pipeline
 
 ## Overview
@@ -142,3 +142,4 @@ Logs and compiled artifacts are ignored
 
 
 Ilyas Ziat
+
