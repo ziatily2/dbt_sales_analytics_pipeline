@@ -112,35 +112,7 @@ Custom generic tests
 
 These tests ensure data reliability across all layers.
 
-Key Concepts Demonstrated
-
-Analytics engineering with dbt
-
-Layered modeling (Bronze / Silver / Gold)
-
-CTE-based SQL transformations
-
-Jinja templating and macros
-
-Seeds and source configuration
-
-Data testing and validation
-
-Clean Git and repository practices
 
 
-Security Notes
-
-profiles.yml is excluded from version control
-
-Secrets are managed via environment variables
-
-Logs and compiled artifacts are ignored
-
-
-
-
-
-Ilyas Ziat
 
 
