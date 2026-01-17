@@ -43,7 +43,7 @@ ilyas_dbt_learning/
 ├── snapshots/         # Snapshot models
 ├── tests/             # Generic & custom tests
 └── dbt_project.yml
-
+```
 
 
 
@@ -142,4 +142,5 @@ Logs and compiled artifacts are ignored
 
 
 Ilyas Ziat
+
 
